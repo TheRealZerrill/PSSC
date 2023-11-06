@@ -1,0 +1,5 @@
+F:\ANUL IV\PSSC\SergiuCosCumparaturi\SergiuCosCumparaturi\SergiuCosCumparaturi\obj\Debug\net6.0\SergiuCosCumparaturi.csproj.AssemblyReference.cache
+F:\ANUL IV\PSSC\SergiuCosCumparaturi\SergiuCosCumparaturi\SergiuCosCumparaturi\obj\Debug\net6.0\SergiuCosCumparaturi.GeneratedMSBuildEditorConfig.editorconfig
+F:\ANUL IV\PSSC\SergiuCosCumparaturi\SergiuCosCumparaturi\SergiuCosCumparaturi\obj\Debug\net6.0\SergiuCosCumparaturi.AssemblyInfoInputs.cache
+F:\ANUL IV\PSSC\SergiuCosCumparaturi\SergiuCosCumparaturi\SergiuCosCumparaturi\obj\Debug\net6.0\SergiuCosCumparaturi.AssemblyInfo.cs
+F:\ANUL IV\PSSC\SergiuCosCumparaturi\SergiuCosCumparaturi\SergiuCosCumparaturi\obj\Debug\net6.0\SergiuCosCumparaturi.csproj.CoreCompileInputs.cache
